@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafeelxAhmed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Badges
-[![@shafeelxahmed's Holopin board](https://holopin.io/api/user/board?user=shafeelxahmed)](https://holopin.io/@shafeelxahmed)
+[![Holopin board](https://holopin.io/api/user/board?user=shafeelxahmed)](https://holopin.io/@shafeelxahmed)
+
 
 
 ## 🏆 GitHub Trophies
