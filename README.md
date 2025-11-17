@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭Building AI/ML projects including fish disease detection & Welfare agent.<br>- 🌱AI/ML models, cloud engineering projects, full-stack web apps.<br>- 👯Improving my skills in web & cloud technology.<br>- 🤔Next.js, React, cloud computing, and advanced computer vision techniques using TensorFlow/Keras.<br>- 💬how to start building AI projects as a beginner.<br>- ⚡I can spend hours debugging, but I still forget where I kept my charger every single day.
+🔭Building AI/ML projects including fish disease detection & Welfare agent.<br>🌱AI/ML models, cloud engineering projects, full-stack web apps.<br>👯Improving my skills in web & cloud technology.<br>🤔Next.js, React, cloud computing, and advanced computer vision techniques using TensorFlow/Keras.<br>💬how to start building AI projects as a beginner.<br>⚡I can spend hours debugging, but I still forget where I kept my charger every single day.
 
 
 ## 🌐 Socials:
