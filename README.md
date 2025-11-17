@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafeelxAhmed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Badges
-[![@shafeelxahmed's Holopin board](https://holopin.io/api/user/board?user=shafeelxahmed)](https://holopin.io/@shafeelxahmed)
+[![An image of @shafeelxahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shafeelxahmed)](https://holopin.io/@shafeelxahmed)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShafeelxAhmed&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
